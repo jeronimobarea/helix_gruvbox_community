@@ -1,7 +1,7 @@
 # helix gruvbox community
 
-This theme is just an extension of the default helix theme:  github.com/helix-editor/helix/blob/master/runtime/themes/gruvbox.toml
-that changes some small things to make it look more like the vim theme: github.com/gruvbox-community/gruvbox
+This theme is just an extension of the default helix theme:  `github.com/helix-editor/helix/blob/master/runtime/themes/gruvbox.toml`
+that changes some small things to make it look more like the vim theme: `github.com/gruvbox-community/gruvbox`
 
 # setup
 
