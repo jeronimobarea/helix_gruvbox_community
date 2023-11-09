@@ -12,3 +12,5 @@ inherits = "gruvbox"
 "operator" = "orange1"
 "comment" = "gray1"
 "constant.builtin" = "orange1"
+
+"ui.background" ={}
